@@ -16,8 +16,8 @@
 
 <br/><br/>
 
-<a href="https://new.boxlab.io">
-  <img src="https://img.shields.io/badge/new.boxlab.io-4E0AF2?style=for-the-badge&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAAUCAQAAAAngNWGAAAAIGNIUk0AAHomAACAhAAA+gAAAIDoAAB1MAAA6mAAADqYAAAXcJy6UTwAAAACYktHRAD/h4/MvwAAAAd0SU1FB+oCFBcuDMVo8R4AAAFsSURBVCjPfZNBS5RRFIaf+zkWk5AhkhsXtjIIgnCCViMigz+gVKZVEUSrWiRtWriSVkEw0N7cjAgqunMnQa5qpYtCEEQICxdpNTM09rSYb5yZrxnfu7nn3odz7zm8J0hCl5kiYpEfiXObV8qsK5Ysuea4F5rvGtvgsAWPrKnqko+8YUiCV33urnXt+MQ+5933hQMN8JKTfrAaQ1995ZAYnFe1UMuKYy75O4Z+uWDGrvgr71RdrMUpbpIhDZzyno/s8ZlToJd7ZFurDl73rZ98aq95y244Yc4NK/ErRVONYi7abyTm/at+ccZtVSuu+9IZB0z0sQbue81B59z0oWmn/eOWD1K01wGzpPmJQMQdRjqBUOUEgB4C0N0ZBOgjzzMCwHngLV6TpQuA4+gc8BtbHAJllrnbrupDb8dx5IhvvG9P+/boto+9cgaHVpsh5vx+ZrNi3TdJPyJ2O+qqJcuum2s1bmgzCtOE/0fhHyyuXej/jduHAAAAAElFTkSuQmCC&logoColor=white" alt="BoxLab" />
+<a href="https://boxlab.io">
+  <img src="https://img.shields.io/badge/boxlab.io-4E0AF2?style=for-the-badge&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAAUCAQAAAAngNWGAAAAIGNIUk0AAHomAACAhAAA+gAAAIDoAAB1MAAA6mAAADqYAAAXcJy6UTwAAAACYktHRAD/h4/MvwAAAAd0SU1FB+oCFBcuDMVo8R4AAAFsSURBVCjPfZNBS5RRFIaf+zkWk5AhkhsXtjIIgnCCViMigz+gVKZVEUSrWiRtWriSVkEw0N7cjAgqunMnQa5qpYtCEEQICxdpNTM09rSYb5yZrxnfu7nn3odz7zm8J0hCl5kiYpEfiXObV8qsK5Ysuea4F5rvGtvgsAWPrKnqko+8YUiCV33urnXt+MQ+5933hQMN8JKTfrAaQ1995ZAYnFe1UMuKYy75O4Z+uWDGrvgr71RdrMUpbpIhDZzyno/s8ZlToJd7ZFurDl73rZ98aq95y244Yc4NK/ErRVONYi7abyTm/at+ccZtVSuu+9IZB0z0sQbue81B59z0oWmn/eOWD1K01wGzpPmJQMQdRjqBUOUEgB4C0N0ZBOgjzzMCwHngLV6TpQuA4+gc8BtbHAJllrnbrupDb8dx5IhvvG9P+/boto+9cgaHVpsh5vx+ZrNi3TdJPyJ2O+qqJcuum2s1bmgzCtOE/0fhHyyuXej/jduHAAAAAElFTkSuQmCC&logoColor=white" alt="BoxLab" />
 </a>
 &nbsp;
 <a href="https://github.com/BoxLab-Ltd/strapi-typed-client">
