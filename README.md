@@ -19,12 +19,81 @@
 <a href="https://boxlab.io?ref=BOXDEV">
   <img src="https://img.shields.io/badge/boxlab.io-4E0AF2?style=for-the-badge&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAAUCAQAAAAngNWGAAAAIGNIUk0AAHomAACAhAAA+gAAAIDoAAB1MAAA6mAAADqYAAAXcJy6UTwAAAACYktHRAD/h4/MvwAAAAd0SU1FB+oCFBcuDMVo8R4AAAFsSURBVCjPfZNBS5RRFIaf+zkWk5AhkhsXtjIIgnCCViMigz+gVKZVEUSrWiRtWriSVkEw0N7cjAgqunMnQa5qpYtCEEQICxdpNTM09rSYb5yZrxnfu7nn3odz7zm8J0hCl5kiYpEfiXObV8qsK5Ysuea4F5rvGtvgsAWPrKnqko+8YUiCV33urnXt+MQ+5933hQMN8JKTfrAaQ1995ZAYnFe1UMuKYy75O4Z+uWDGrvgr71RdrMUpbpIhDZzyno/s8ZlToJd7ZFurDl73rZ98aq95y244Yc4NK/ErRVONYi7abyTm/at+ccZtVSuu+9IZB0z0sQbue81B59z0oWmn/eOWD1K01wGzpPmJQMQdRjqBUOUEgB4C0N0ZBOgjzzMCwHngLV6TpQuA4+gc8BtbHAJllrnbrupDb8dx5IhvvG9P+/boto+9cgaHVpsh5vx+ZrNi3TdJPyJ2O+qqJcuum2s1bmgzCtOE/0fhHyyuXej/jduHAAAAAElFTkSuQmCC&logoColor=white" alt="BoxLab" />
 </a>
-&nbsp;
-<a href="https://github.com/BoxLab-Ltd/strapi-typed-client">
-  <img src="https://img.shields.io/badge/strapi--typed--client-161b22?style=for-the-badge&logo=github&logoColor=white" alt="strapi-typed-client" />
-</a>
 
 </div>
+
+<br/>
+
+<h3 align="center">Open Source</h3>
+
+<table>
+<tr>
+<td width="50%" align="left" valign="top">
+
+#### [strapi-typed-client](https://github.com/BoxLab-Ltd/strapi-typed-client)
+
+<a href="https://github.com/BoxLab-Ltd/strapi-typed-client"><img src="https://img.shields.io/github/stars/BoxLab-Ltd/strapi-typed-client?style=flat-square&labelColor=0d1117&color=4E0AF2&logo=github&logoColor=white" alt="stars" /></a>
+<a href="https://www.npmjs.com/package/strapi-typed-client"><img src="https://img.shields.io/npm/dm/strapi-typed-client?style=flat-square&labelColor=0d1117&color=4E0AF2&logo=npm&logoColor=white" alt="npm downloads" /></a>
+
+Type-safe Strapi&nbsp;v5 client with automatic TypeScript codegen and populate type inference.
+
+</td>
+<td width="50%" align="left" valign="top">
+
+#### [yandex-metrica-mcp](https://github.com/BoxLab-Ltd/yandex-metrica-mcp)
+
+<a href="https://github.com/BoxLab-Ltd/yandex-metrica-mcp"><img src="https://img.shields.io/github/stars/BoxLab-Ltd/yandex-metrica-mcp?style=flat-square&labelColor=0d1117&color=4E0AF2&logo=github&logoColor=white" alt="stars" /></a>
+<a href="https://www.npmjs.com/package/yandex-metrica-mcp"><img src="https://img.shields.io/npm/dm/yandex-metrica-mcp?style=flat-square&labelColor=0d1117&color=4E0AF2&logo=npm&logoColor=white" alt="npm downloads" /></a>
+
+MCP server for Yandex Metrica — query web analytics and raw logs in plain language from Claude or Cursor. Secretless PKCE login.
+
+</td>
+</tr>
+<tr>
+<td width="50%" align="left" valign="top">
+
+#### [yandex-webmaster-mcp](https://github.com/BoxLab-Ltd/yandex-webmaster-mcp)
+
+<a href="https://github.com/BoxLab-Ltd/yandex-webmaster-mcp"><img src="https://img.shields.io/github/stars/BoxLab-Ltd/yandex-webmaster-mcp?style=flat-square&labelColor=0d1117&color=4E0AF2&logo=github&logoColor=white" alt="stars" /></a>
+<a href="https://www.npmjs.com/package/@boxlab/yandex-webmaster-mcp"><img src="https://img.shields.io/npm/dm/%40boxlab%2Fyandex-webmaster-mcp?style=flat-square&labelColor=0d1117&color=4E0AF2&logo=npm&logoColor=white" alt="npm downloads" /></a>
+
+MCP server for Yandex Webmaster — indexing status, search queries, SEO diagnostics and backlinks for AI agents.
+
+</td>
+<td width="50%" align="left" valign="top">
+
+#### [yandex-mcp-core](https://github.com/BoxLab-Ltd/yandex-mcp-core)
+
+<a href="https://www.npmjs.com/package/@boxlab/yandex-mcp-core"><img src="https://img.shields.io/npm/dm/%40boxlab%2Fyandex-mcp-core?style=flat-square&labelColor=0d1117&color=4E0AF2&logo=npm&logoColor=white" alt="npm downloads" /></a>
+<a href="https://www.npmjs.com/package/@boxlab/yandex-mcp-core"><img src="https://img.shields.io/npm/v/%40boxlab%2Fyandex-mcp-core?style=flat-square&labelColor=0d1117&color=161b22&logo=npm&logoColor=white" alt="npm version" /></a>
+
+Shared OAuth&nbsp;PKCE login, HTTP client and MCP helpers powering both Yandex servers above.
+
+</td>
+</tr>
+<tr>
+<td width="50%" align="left" valign="top">
+
+#### [xkeen-panel](https://github.com/Dearonski/xkeen-panel)
+
+<a href="https://github.com/Dearonski/xkeen-panel"><img src="https://img.shields.io/github/stars/Dearonski/xkeen-panel?style=flat-square&labelColor=0d1117&color=4E0AF2&logo=github&logoColor=white" alt="stars" /></a>
+<a href="https://github.com/Dearonski/xkeen-panel/releases"><img src="https://img.shields.io/github/v/release/Dearonski/xkeen-panel?style=flat-square&labelColor=0d1117&color=161b22&logo=go&logoColor=white" alt="release" /></a>
+
+Go&nbsp;+&nbsp;React web panel for XKeen/Xray on Keenetic routers — subscriptions, balancer pool, watchdog failover, live SSE logs.
+
+</td>
+<td width="50%" align="left" valign="top">
+
+#### [Nimbus](https://github.com/Dearonski/Nimbus)
+
+<a href="https://github.com/Dearonski/Nimbus"><img src="https://img.shields.io/github/stars/Dearonski/Nimbus?style=flat-square&labelColor=0d1117&color=4E0AF2&logo=github&logoColor=white" alt="stars" /></a>
+<img src="https://img.shields.io/badge/Swift_6-work_in_progress-161b22?style=flat-square&labelColor=0d1117&logo=swift&logoColor=F05138" alt="work in progress" />
+
+Native macOS SoundCloud client in SwiftUI — drag-and-drop queue, menu-bar mini-player, system Now&nbsp;Playing.
+
+</td>
+</tr>
+</table>
 
 <br/>
 
@@ -35,7 +104,7 @@
 </a>
 <br/>
 <a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=postgres,go,py,docker,nginx,githubactions&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=postgres,go,swift,py,docker,githubactions&theme=dark" />
 </a>
 
 </div>
